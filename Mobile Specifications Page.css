@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.mbl-bg {
+    background-size: cover;
+    height: 60vh;
+    width: 100vw;
+}
+
+.card-cont {
+    color: #0a1f44;
+    background-color: #ffffff;
+    padding: 19px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #707070;
+}
+
+.card-cont-head {
+    font-size: 22px;
+    font-family: "Robotto";
+    font-weight: bold;
+}
+
+.card-cont-bod {
+    font-size: 15px;
+    font-family: "Robotto";
+
+}
+
+.card-but {
+    width: 80px;
+    height: 35px;
+    border-width: 0;
+    margin: 3px;
+    background-color: #0967d2;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.but {
+    text-align: center;
+}
+
+.details-item {
+    color: #0a1f44;
+    font-family: "Robotto";
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 15px;
+}
